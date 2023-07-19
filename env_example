@@ -1,1 +1,2 @@
 CYCLES=5
+URL_PATH=./example/urls.json

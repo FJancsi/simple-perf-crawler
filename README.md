@@ -23,6 +23,7 @@ npm start
 
 -   Under the example folder in the urls.json list all the necessary url(s)
 -   in the .env file set the `CYCLES` to the desired value
+-   in the .env file set the `URL_PATH` to the desired value, if you would like to add an additional path for URLs
 
 ## Example
 
